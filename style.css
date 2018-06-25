@@ -3,3 +3,8 @@ Theme Name: uniFic
 Author: D. Lajara
 Version: 1.0
 */
+
+
+body {
+  color: firebrick;
+}

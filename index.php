@@ -1,4 +1,4 @@
-<?php 
+<?php get_header();
 
 echo "<h1>This this is the index file</h1>";
 
@@ -10,4 +10,6 @@ while(have_posts()) {
   <hr>
 <?php }
 
+
+get_footer();
 ?>

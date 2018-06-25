@@ -1,4 +1,5 @@
 <?php 
+get_header();
 
 echo "<h1>This this is the single/post file</h1>";
 
@@ -10,4 +11,6 @@ while(have_posts()) {
  
 <?php }
 
+
+get_footer();
 ?>
